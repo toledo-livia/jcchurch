@@ -16,7 +16,7 @@ function App() {
         </span>
       </header>
       <div className="App-container">
-        <FaPhone size={20} color="#ffffff" />
+        <a href='tel:(12)99625-7482'><FaPhone size={20} color="#ffffff" /></a>
         <FaEnvelope size={20} color="#ffffff" />
         <FaLocationDot size={20} color="#ffffff" />
       </div>
