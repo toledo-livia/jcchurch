@@ -17,8 +17,7 @@ function App() {
       </header>
       <div className="App-container">
         <a href='tel:(12)99625-7482'><FaPhone size={20} color="#ffffff" /></a>
-        <FaEnvelope size={20} color="#ffffff" />
-        <FaLocationDot size={20} color="#ffffff" />
+        <a href='https://maps.app.goo.gl/QzfAxYMNUPuPSNin7'><FaLocationDot size={20} color="#ffffff" /></a>
       </div>
       <div className="App-content">
         <div className="App-box">
