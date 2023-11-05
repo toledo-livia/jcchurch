@@ -8,6 +8,7 @@ import {
   FaSpotify,
 } from "react-icons/fa6";
 import "./App.css";
+import ReactPlayer from "react-player";
 
 function App() {
   return (
@@ -37,7 +38,10 @@ function App() {
             </div>
           </div>
         </a>
-        <a className="App-link" href="https://instagram.com/jcchurch.br?igshid=OGQ5ZDc2ODk2ZA==">
+        <a
+          className="App-link"
+          href="https://instagram.com/jcchurch.br?igshid=OGQ5ZDc2ODk2ZA=="
+        >
           <div className="App-box">
             <FaInstagram size={35} color="#ffffff" />
             <div className="App-content-box">
@@ -55,7 +59,10 @@ function App() {
             </div>
           </div>
         </a>
-        <a className="App-link" href="https://www.tiktok.com/@jcchurch.br?_t=8h29UpCdXUM&_r=1">
+        <a
+          className="App-link"
+          href="https://www.tiktok.com/@jcchurch.br?_t=8h29UpCdXUM&_r=1"
+        >
           <div className="App-box">
             <FaTiktok size={35} color="#ffffff" />
             <div className="App-content-box">
@@ -64,7 +71,10 @@ function App() {
             </div>
           </div>
         </a>
-        <a className="App-link" href="https://www.tiktok.com/@essence.jc1?_t=8h29WARvUIA&_r=1">
+        <a
+          className="App-link"
+          href="https://www.tiktok.com/@essence.jc1?_t=8h29WARvUIA&_r=1"
+        >
           <div className="App-box">
             <FaTiktok size={35} color="#ffffff" />
             <div className="App-content-box">
@@ -73,7 +83,10 @@ function App() {
             </div>
           </div>
         </a>
-        <a className="App-link" href="https://open.spotify.com/playlist/00Mna0ZgzcDTz9CdQcM1cI?si=FeM32wzZR7yybjBw6jri7w">
+        <a
+          className="App-link"
+          href="https://open.spotify.com/playlist/00Mna0ZgzcDTz9CdQcM1cI?si=FeM32wzZR7yybjBw6jri7w"
+        >
           <div className="App-box">
             <FaSpotify size={35} color="#ffffff" />
             <div className="App-content-box">
@@ -82,6 +95,12 @@ function App() {
             </div>
           </div>
         </a>
+      </div>
+      <div className="App-video">
+        <ReactPlayer
+          url="https://www.youtube.com/watch?v=dxmmKXIosGc&ab_channel=JCChurch"
+          width="90% !important"
+        />
       </div>
     </div>
   );
