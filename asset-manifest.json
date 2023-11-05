@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jcchurch/static/css/main.036ffb03.css",
-    "main.js": "/jcchurch/static/js/main.01f0cb69.js",
+    "main.css": "/jcchurch/static/css/main.1603ca77.css",
+    "main.js": "/jcchurch/static/js/main.dae665f7.js",
     "static/js/787.b4c1435e.chunk.js": "/jcchurch/static/js/787.b4c1435e.chunk.js",
     "static/media/background.jpeg": "/jcchurch/static/media/background.6aff566b848a1efdf669.jpeg",
     "static/media/logo.png": "/jcchurch/static/media/logo.a880401215f68c4a08bd.png",
     "index.html": "/jcchurch/index.html",
-    "main.036ffb03.css.map": "/jcchurch/static/css/main.036ffb03.css.map",
-    "main.01f0cb69.js.map": "/jcchurch/static/js/main.01f0cb69.js.map",
+    "main.1603ca77.css.map": "/jcchurch/static/css/main.1603ca77.css.map",
+    "main.dae665f7.js.map": "/jcchurch/static/js/main.dae665f7.js.map",
     "787.b4c1435e.chunk.js.map": "/jcchurch/static/js/787.b4c1435e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.036ffb03.css",
-    "static/js/main.01f0cb69.js"
+    "static/css/main.1603ca77.css",
+    "static/js/main.dae665f7.js"
   ]
 }
