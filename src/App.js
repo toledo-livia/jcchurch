@@ -98,7 +98,7 @@ function App() {
       </div>
       <div className="App-video">
         <ReactPlayer
-          url="https://www.youtube.com/watch?v=ej_Kjqidy9Y&ab_channel=JCChurch"
+          url="https://www.youtube.com/watch?v=3HsY-Wayrho&ab_channel=JCChurch"
           width="90% !important"
           progressInterval="1900"
         />
