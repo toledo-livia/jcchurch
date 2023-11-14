@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/jcchurch/static/css/main.fade3785.css",
-    "main.js": "/jcchurch/static/js/main.37539857.js",
+    "main.js": "/jcchurch/static/js/main.caf07e4c.js",
     "static/js/787.b4c1435e.chunk.js": "/jcchurch/static/js/787.b4c1435e.chunk.js",
     "static/media/background.jpeg": "/jcchurch/static/media/background.6aff566b848a1efdf669.jpeg",
     "static/media/logo-jc.png": "/jcchurch/static/media/logo-jc.1485d932a1243568ba6a.png",
     "index.html": "/jcchurch/index.html",
     "main.fade3785.css.map": "/jcchurch/static/css/main.fade3785.css.map",
-    "main.37539857.js.map": "/jcchurch/static/js/main.37539857.js.map",
+    "main.caf07e4c.js.map": "/jcchurch/static/js/main.caf07e4c.js.map",
     "787.b4c1435e.chunk.js.map": "/jcchurch/static/js/787.b4c1435e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fade3785.css",
-    "static/js/main.37539857.js"
+    "static/js/main.caf07e4c.js"
   ]
 }
